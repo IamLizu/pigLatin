@@ -1,1 +1,1 @@
-Pig Latin is a language game, where you move the first letter of the word to the end and add "ay." So "Python" becomes "ythonpay."
+Pig Latin is a language game in which words in English are altered, usually by adding a fabricated suffix or by moving the onset or initial consonant or consonant cluster of a word to the end of the word and adding a vocalic syllable to create such a suffix. For example, Wikipedia would become Ikipediaway. - [Wikipedia](https://en.wikipedia.org/wiki/Pig_Latin)
